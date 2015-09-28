@@ -1,0 +1,6 @@
+﻿i.		Title: Tic-Tac-Toe Gema
+ii.		Description: Interactive console tic-tac-toe game
+iii:	Application Type: Console
+iv.		Author: Jamie Gleason and Andrew Fessender
+v.		Date Created: 09/28/2015
+vi.		Last Modified: Current
